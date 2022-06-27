@@ -1,3 +1,7 @@
 # chat_socket
 
-created a simple chat messaging using socket.io
+Implemented a simple chat messaging using socket.io
+
+
+## References
+https://socket.io/get-started/chat
