@@ -8,8 +8,9 @@ Implemented a simple chat messaging using socket.io
 Vercel does not support socket.io functions. Using Heroku to deploy.
 <br> https://damp-bastion-04405.herokuapp.com/
 
-<br><br> Features to work on:
-<br> + sizing to fit a mobile screen
+
+## Features to work on:
++ sizing to fit a mobile screen
 + cache or database to remember messages despite refreshing
 + rooms
 + differentiating users
@@ -26,5 +27,5 @@ https://github.com/nodejs/node-v0.x-archive/wiki/Node-Hosting
 https://geshan.com.np/blog/2021/01/free-nodejs-hosting/
 
 
-## References
+### References
 https://socket.io/get-started/chat
