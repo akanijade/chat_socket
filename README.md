@@ -2,6 +2,12 @@
 
 Implemented a simple chat messaging using socket.io
 
+
+# Final implmentation
+
+Vercel does not support socket.io functions. Using Heroku to deploy.
+<br> https://damp-bastion-04405.herokuapp.com/
+
 # Notes
 
 Github pages are not compatible to host Node.js applications <br>
