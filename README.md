@@ -8,6 +8,7 @@ Implemented a simple chat messaging using socket.io
 Vercel does not support socket.io functions. Using Heroku to deploy.
 <br> Link below to access deploment ---->
 <br> https://damp-bastion-04405.herokuapp.com/
+<br> Heroku no longer supports free dynos
 
 
 ## Features to work on:
